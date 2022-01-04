@@ -1,6 +1,4 @@
-# 11010COM525200 Financial Technology - Final Project kNN 9 t0 1 ML Part
-
-第十六組 林咏丘 通訊工程研究所 110064466
+# Financial Technology - Final Project kNN 9 t0 1 ML Part
 
 ## Needed Python Extension Packages (Python 3.9.7)
 
